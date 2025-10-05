@@ -1,6 +1,5 @@
 default_stages: [pre-commit]
 fail_fast: true
-
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v6.0.0
@@ -14,7 +13,3 @@ repos:
     rev: v1.37.0
     hooks:
       - id: typos
-  - repo: https://github.com/sindresorhus/awesome-lint
-    rev: v2.2.1
-    hooks:
-      - id: awesome-lint
