@@ -1,0 +1,20 @@
+default_stages: [pre-commit]
+fail_fast: true
+
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v6.0.0
+    hooks:
+      - id: trailing-whitespace
+  - repo: https://github.com/google/yamlfmt
+    rev: v0.17.2
+    hooks:
+      - id: yamlfmt
+  - repo: https://github.com/adhtruong/mirrors-typos
+    rev: v1.37.0
+    hooks:
+      - id: typos
+  - repo: https://github.com/sindresorhus/awesome-lint
+    rev: v2.2.1
+    hooks:
+      - id: awesome-lint

@@ -1,0 +1,24 @@
+version: "3"
+
+tasks:
+  default:
+    silent: true
+    cmds:
+      - task --list
+
+  precommit-full:
+    desc: Lint the project against all files
+    cmds:
+      - pre-commit install && pre-commit install-hooks
+      - pre-commit autoupdate
+      - pre-commit run --show-diff-on-failure --color=always --all-files
+
+  install:
+    desc: install awesome lists linter
+    cmds:
+      - npm install awesome-lint
+
+  lint:
+    desc: lint the awesome list
+    cmds:
+      - npx awesome-lint
