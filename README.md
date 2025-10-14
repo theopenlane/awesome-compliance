@@ -155,17 +155,6 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 
 ## Tools & Platforms
 
-### Compliance Specifications & Resources
-
-- [AWS Artifact](https://aws.amazon.com/artifact/) - Access AWS compliance reports (SOC, ISO, PCI, etc.).
-- [Azure Compliance](https://learn.microsoft.com/en-us/azure/compliance/) - Microsoft Azure compliance documentation and reports.
-- [GCP Compliance](https://cloud.google.com/security/compliance) - Google Cloud compliance resources and certifications.
-- [Unified Compliance Framework](https://www.unifiedcompliance.com/) - Common Controls Hub with 1000+ mapped authorities (Commercial).
-- [NIST OSCAL](https://pages.nist.gov/OSCAL/) - Open Security Controls Assessment Language for machine-readable compliance.
-- [OpenControl](http://open-control.org/) - YAML-based compliance documentation framework.
-- [ComplianceForge](https://www.complianceforge.com/) - Commercial policy libraries and toolkits for multiple frameworks.
-- [Regulations.gov](https://www.regulations.gov/) - US federal regulations repository.
-
 ### Open Source Platforms
 
 - [Openlane](https://www.theopenlane.io/) - Comprehensive compliance automation platform for SOC 2, ISO 27001, and custom frameworks (Apache-2.0). Transforms compliance from static annual process to continuous collaborative workflow with risk register, policy management, evidence lifecycle, and control validation. ([GitHub](https://github.com/theopenlane) | [Docs](https://docs.theopenlane.io/))
@@ -223,5 +212,15 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 - [Sametrica](https://www.sametrica.com/) - ESG impact measurement software.
 - [Workiva](https://www.workiva.com/) - Cloud platform for ESG, financial, and compliance reporting.
 
+### Compliance Specifications & Resources
+
+- [AWS Artifact](https://aws.amazon.com/artifact/) - Access AWS compliance reports (SOC, ISO, PCI, etc.).
+- [Azure Compliance](https://learn.microsoft.com/en-us/azure/compliance/) - Microsoft Azure compliance documentation and reports.
+- [GCP Compliance](https://cloud.google.com/security/compliance) - Google Cloud compliance resources and certifications.
+- [Unified Compliance Framework](https://www.unifiedcompliance.com/) - Common Controls Hub with 1000+ mapped authorities (Commercial).
+- [NIST OSCAL](https://pages.nist.gov/OSCAL/) - Open Security Controls Assessment Language for machine-readable compliance.
+- [OpenControl](http://open-control.org/) - YAML-based compliance documentation framework.
+- [ComplianceForge](https://www.complianceforge.com/) - Commercial policy libraries and toolkits for multiple frameworks.
+- [Regulations.gov](https://www.regulations.gov/) - US federal regulations repository.
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
