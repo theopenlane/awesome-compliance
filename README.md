@@ -190,7 +190,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 - [Vanta](https://www.vanta.com/) - Compliance automation platform for SOC 2, ISO 27001. Continuous monitoring with AI-powered questionnaire responses.
 - [Secureframe](https://secureframe.com/) - End-to-end compliance platform for SOC 2, ISO 27001, HIPAA. Includes policy templates, evidence collection, training, auditor coordination.
 - [Tugboat Logic](https://www.onegrc.com/) - Security assurance platform now part of OneTrust. Automated evidence collection and audit project management.
-- [Tenalbe] (https://www.tenable.com/) - Cloud-based and On-prem Vulnerability and exposure management.
+- [Tenable] (https://www.tenable.com/) - Cloud-based and On-prem vulnerability and exposure management.
 - [Hyperproof](https://hyperproof.io/) - Compliance operations platform for ongoing risk and compliance management. Workflow automation and continuous control monitoring.
 - [Sprinto](https://sprinto.com/) - Automated compliance platform for SOC 2, ISO 27001, GDPR, HIPAA.
 - [Oneleet](https://oneleet.com/) - Continuous compliance monitoring and automation platform.
