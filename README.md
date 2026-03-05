@@ -156,7 +156,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 ## Tools & Platforms
 
 ### Tools
-- [SOC 2 Reliability Guild] (https://github.com/SOC-2-Quality-Guild/s2guild.org) - A community creating standardized evaluation criteria to help GRC and TPRM practitioners assess how much weight to give a SOC 2 report when making vendor trust decisions.
+- [SOC 2 Reliability Guild](https://github.com/SOC-2-Quality-Guild/s2guild.org) - A community creating standardized evaluation criteria to help GRC and TPRM practitioners assess how much weight to give a SOC 2 report when making vendor trust decisions.
 
 ### Open Source Platforms
 
