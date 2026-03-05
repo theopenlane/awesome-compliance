@@ -155,6 +155,9 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 
 ## Tools & Platforms
 
+### Tools
+- [SOC 2 Reliability Guild] (https://github.com/SOC-2-Quality-Guild/s2guild.org) - A community creating standardized evaluation criteria to help GRC and TPRM practitioners assess how much weight to give a SOC 2 report when making vendor trust decisions.
+
 ### Open Source Platforms
 
 - [Openlane](https://www.theopenlane.io/) - Comprehensive compliance automation platform for SOC 2, ISO 27001, and custom frameworks (Apache-2.0). Transforms compliance from static annual process to continuous collaborative workflow with risk register, policy management, evidence lifecycle, and control validation. ([GitHub](https://github.com/theopenlane) | [Docs](https://docs.theopenlane.io/))
