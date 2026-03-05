@@ -158,7 +158,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 ### Open Source Platforms
 
 - [Openlane](https://www.theopenlane.io/) - Comprehensive compliance automation platform for SOC 2, ISO 27001, and custom frameworks (Apache-2.0). Transforms compliance from static annual process to continuous collaborative workflow with risk register, policy management, evidence lifecycle, and control validation. ([GitHub](https://github.com/theopenlane) | [Docs](https://docs.theopenlane.io/))
-- - [SOC 2 Reliability Guild](https://s2guild.org/) - A community creating standardized evaluation criteria to help GRC and TPRM practitioners assess how much weight to give a SOC 2 report when making vendor trust decisions ([Github](https://github.com/SOC-2-Quality-Guild/s2guild.org))
+- [SOC 2 Reliability Guild](https://s2guild.org/) - A community creating standardized evaluation criteria to help GRC and TPRM practitioners assess how much weight to give a SOC 2 report when making vendor trust decisions ([Github](https://github.com/SOC-2-Quality-Guild/s2guild.org))
 - [Comply](https://github.com/strongdm/comply) - SOC 2 compliance automation framework by StrongDM (Apache-2.0). Provides markdown-based policy templates and document pipeline for auditor-ready policies.
 - [Compliance Masonry](https://github.com/opencontrol/compliance-masonry) - CLI tool to build compliance documentation using OpenControl YAML schema. Supports FedRAMP, NIST, and other frameworks.
 - [Auditree Framework](https://github.com/ComplianceAsCode/auditree-framework) - IBM's framework for automated evidence collection and verification (Apache-2.0). Treats compliance checks as code with version-controlled evidence locker.
