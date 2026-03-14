@@ -152,6 +152,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 - [ePrivacy Directive](http://ec.europa.eu/newsroom/dae/document.cfm?doc_id=41241) - EU directive on privacy and electronic communications (under revision).
 - [ENISA Guidelines](https://resilience.enisa.europa.eu/article-13/guideline-for-minimum-security-measures/Article_13a_ENISA_Technical_Guideline_On_Security_Measures_v2_0.pdf) - European Union Agency for Network and Information Security technical guidelines and security measures.
 - [EU AI Act](https://artificialintelligenceact.eu/) - Comprehensive AI regulation with risk-based approach, prohibitions on high-risk uses, and transparency requirements. First comprehensive AI law globally.
+- [Systima Comply](https://github.com/systima-ai/comply) - Open-source EU AI Act compliance scanner for CI/CD pipelines. AST-based detection of 37+ AI/ML frameworks with call-chain tracing and obligation checking against Articles 5-50. Ships as CLI, GitHub Action, and TypeScript API. Apache 2.0 licensed.
 
 ## Tools & Platforms
 
