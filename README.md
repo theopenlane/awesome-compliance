@@ -154,6 +154,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 - [EU AI Act](https://artificialintelligenceact.eu/) - Comprehensive AI regulation with risk-based approach, prohibitions on high-risk uses, and transparency requirements. First comprehensive AI law globally.
 - [Systima Comply](https://github.com/systima-ai/comply) - Open-source EU AI Act compliance scanner for CI/CD pipelines. AST-based detection of 37+ AI/ML frameworks with call-chain tracing and obligation checking against Articles 5-50. Ships as CLI, GitHub Action, and TypeScript API. Apache 2.0 licensed.
 - [AIR Blackbox](https://github.com/airblackbox/gateway) - Open-source EU AI Act compliance scanner and runtime trust layer for Python AI agents. 39 checks across Articles 9-15 with HMAC-SHA256 tamper-evident audit chains, PII detection, and prompt injection blocking. Trust layers for LangChain, CrewAI, AutoGen, OpenAI, Google ADK, and Claude Agent SDK. Ships as CLI, MCP server, and GitHub Action. Apache 2.0 licensed. ([Website](https://airblackbox.ai) | [PyPI](https://pypi.org/project/air-blackbox/))
+- [NeuralFlow](https://github.com/omergili/neuralflow) - Open-source EU AI Act Article 50 transparency toolkit. Adds machine-readable (JSON-LD, meta tags) and human-visible AI disclosure to websites with a single script tag. Ships as npm package (`@neuralflow/ai-act`), CLI, and WordPress plugin. 5.1 KB, zero dependencies. MIT licensed. ([npm](https://www.npmjs.com/package/@neuralflow/ai-act) | [Website](https://neuralflow.mylurch.com))
 
 ## Tools & Platforms
 
