@@ -188,6 +188,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 - [GGRC Core](https://github.com/google/ggrc-core) - Google's governance, risk, and compliance platform (archived but historically significant).
 - [Govready](https://github.com/GovReady/govready-q) - Open-source GRC platform for automated compliance assessments.
 - [Probo](https://github.com/ProboCI/probo) - Open source compliance automation focused on continuous integration workflows.
+- [Venturalitica SDK](https://github.com/Venturalitica/venturalitica-sdk) - Open-source Python SDK (Apache-2.0) for EU AI Act and ISO 42001 compliance evidence generation from ML training pipelines. Produces OSCAL Assessment Results, CycloneDX ML BOM, bias audits, and Annex IV technical documentation as a byproduct of model training.
 
 ### Commercial Platforms
 
