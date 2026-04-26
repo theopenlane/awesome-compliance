@@ -224,6 +224,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 - [AWS Artifact](https://aws.amazon.com/artifact/) - Access AWS compliance reports (SOC, ISO, PCI, etc.).
 - [Azure Compliance](https://learn.microsoft.com/en-us/azure/compliance/) - Microsoft Azure compliance documentation and reports.
 - [GCP Compliance](https://cloud.google.com/security/compliance) - Google Cloud compliance resources and certifications.
+- [OpenRegistry](https://openregistry.sophymarine.com) - Real-time MCP-server access to 27 national company registries for KYC / UBO / cross-border due-diligence. Includes UK Companies House, France RNE, Germany Handelsregister, Italy InfoCamere via BRIS, Spain BORME, Korea OpenDART, and 21 others.
 - [Unified Compliance Framework](https://www.unifiedcompliance.com/) - Common Controls Hub with 1000+ mapped authorities (Commercial).
 - [NIST OSCAL](https://pages.nist.gov/OSCAL/) - Open Security Controls Assessment Language for machine-readable compliance.
 - [OpenControl](http://open-control.org/) - YAML-based compliance documentation framework.
