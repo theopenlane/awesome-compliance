@@ -157,14 +157,6 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 - [NeuralFlow](https://github.com/omergili/neuralflow) - Open-source EU AI Act Article 50 transparency toolkit. Adds machine-readable (JSON-LD, meta tags) and human-visible AI disclosure to websites with a single script tag. Ships as npm package (`@neuralflow/ai-act`), CLI, and WordPress plugin. 5.1 KB, zero dependencies. MIT licensed. ([npm](https://www.npmjs.com/package/@neuralflow/ai-act) | [Website](https://neuralflow.mylurch.com))
 
 
-#### MEOK AI Labs — Signed-Attestation Open-Source MCPs
-- [meok-eu-ai-act-compliance](https://github.com/CSOAI-ORG/eu-ai-act-compliance-mcp) - EU AI Act Article 6 risk classifier + Article 26(9) FRIA + Article 50 transparency obligations with HMAC-signed compliance attestations.
-- [meok-dora-compliance](https://github.com/CSOAI-ORG/dora-compliance-mcp) - DORA (Reg 2022/2554) Article 28 register, Article 26 TLPT planner, Article 18 incident classification with signed attestations.
-- [meok-cra-annex-iv-classifier](https://github.com/CSOAI-ORG/meok-cra-annex-iv-classifier-mcp) - EU CRA (Reg 2024/2847) Annex IV essential security requirements classifier.
-- [meok-nis2-de-register](https://github.com/CSOAI-ORG/meok-nis2-de-register-mcp) - Germany NIS2 BSI register Section 30/32 timelines + KRITIS classifications.
-- [meok-watermark-attest](https://github.com/CSOAI-ORG/meok-watermark-attest-mcp) - EU AI Act Article 50 watermarking compliance (C2PA + invisible WM + fingerprint), 2 August 2026 deadline.
-- [meok-attestation-api](https://meok-attestation-api.vercel.app) - HMAC-signed compliance attestation infrastructure used across the MEOK fleet (verifiable URLs, MIT-licensed).
-
 ## Tools & Platforms
 
 ### Open Source Platforms
@@ -198,6 +190,14 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 - [Govready](https://github.com/GovReady/govready-q) - Open-source GRC platform for automated compliance assessments.
 - [Probo](https://github.com/ProboCI/probo) - Open source compliance automation focused on continuous integration workflows.
 - [Venturalitica SDK](https://github.com/Venturalitica/venturalitica-sdk) - Open-source Python SDK (Apache-2.0) for EU AI Act and ISO 42001 compliance evidence generation from ML training pipelines. Produces OSCAL Assessment Results, CycloneDX ML BOM, bias audits, and Annex IV technical documentation as a byproduct of model training.
+
+#### MEOK AI Labs — Signed-Attestation Open-Source MCPs
+- [meok-eu-ai-act-compliance](https://github.com/CSOAI-ORG/eu-ai-act-compliance-mcp) - EU AI Act Article 6 risk classifier + Article 26(9) FRIA + Article 50 transparency obligations with HMAC-signed compliance attestations.
+- [meok-dora-compliance](https://github.com/CSOAI-ORG/dora-compliance-mcp) - DORA (Reg 2022/2554) Article 28 register, Article 26 TLPT planner, Article 18 incident classification with signed attestations.
+- [meok-cra-annex-iv-classifier](https://github.com/CSOAI-ORG/meok-cra-annex-iv-classifier-mcp) - EU CRA (Reg 2024/2847) Annex IV essential security requirements classifier.
+- [meok-nis2-de-register](https://github.com/CSOAI-ORG/meok-nis2-de-register-mcp) - Germany NIS2 BSI register Section 30/32 timelines + KRITIS classifications.
+- [meok-watermark-attest](https://github.com/CSOAI-ORG/meok-watermark-attest-mcp) - EU AI Act Article 50 watermarking compliance (C2PA + invisible WM + fingerprint), 2 August 2026 deadline.
+- [meok-attestation-api](https://meok-attestation-api.vercel.app) - HMAC-signed compliance attestation infrastructure used across the MEOK fleet (verifiable URLs, MIT-licensed).
 
 ### Commercial Platforms
 
