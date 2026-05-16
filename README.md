@@ -19,6 +19,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
   - [Open Source Platforms](#open-source-platforms)
   - [Commercial Platforms](#commercial-platforms)
   - [Compliance Specifications & Resources](#compliance-specifications--resources)
+  - [Regulatory Data Sources](#regulatory-data-sources)
 
 
 ## Frameworks & Standards
@@ -241,5 +242,24 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 - [OpenControl](http://open-control.org/) - YAML-based compliance documentation framework.
 - [ComplianceForge](https://www.complianceforge.com/) - Commercial policy libraries and toolkits for multiple frameworks.
 - [Regulations.gov](https://www.regulations.gov/) - US federal regulations repository.
+
+### Regulatory Data Sources
+
+European government registries that lack public APIs - pay-per-use scrapers for KYC/AML due diligence, beneficial-owner verification, debtor and insolvency screening, and ESG compliance. Structured JSON output, no monthly subscription. All published on Apify Store under [@minute_contest](https://apify.com/minute_contest).
+
+- [Poland KRS Financial Statements Scraper](https://apify.com/minute_contest/poland-krs-financial-scraper) - Structured balance sheets and income statements parsed from the Polish National Court Register (KRS). Pay-per-use programmatic alternative to manual eKRS PDF lookups.
+- [Poland CRBR Beneficial Owners Scraper](https://apify.com/minute_contest/crbr-beneficial-owners-scraper) - UBO verification from the Central Register of Beneficial Owners. Relevant to EU 6AMLD beneficial-owner due diligence.
+- [Poland KRZ National Debtor Registry Scraper](https://apify.com/minute_contest/krz-debtor-scraper) - Bankruptcy, restructuring, and enforcement-proceedings screening across 9 search modes.
+- [Poland EKW Land Registry Scraper](https://apify.com/minute_contest/ekw-ksiegi-wieczyste-scraper) - Property ownership and mortgage records from księgi wieczyste.
+- [Poland KRS Board Members Scraper](https://apify.com/minute_contest/krs-fullnames-scraper) - Non-anonymized director and board-member names (the official KRS API censors them).
+- [Poland UOKiK Abusive Clauses Scraper](https://apify.com/minute_contest/uokik-clauses-scraper) - 7,500+ prohibited consumer-contract clauses for contract review.
+- [Poland MSiG Court Gazette Scraper](https://apify.com/minute_contest/msig-scraper) - 20+ years of Polish court announcements (Monitor Sądowy i Gospodarczy).
+- [Poland KNF Financial Registry Scraper](https://apify.com/minute_contest/knf-registry-scraper) - 75,000+ supervised financial entities from the Polish Financial Supervision Authority.
+- [Poland BDO Waste Registry Scraper](https://apify.com/minute_contest/bdo-waste-registry-scraper) - 674,000+ waste-management entities for ESG and environmental compliance.
+- [Spain BORME Corporate Acts Parser](https://apify.com/minute_contest/borme-corporate-acts-scraper) - Structured corporate-acts data parsed from Spain's official gazette (BORME) PDFs.
+- [Spain Company Directory Scraper (Registro Mercantil)](https://apify.com/minute_contest/spain-company-directory-scraper) - NIF, officers, and CNAE codes from Registro Mercantil open data.
+- [Austria Ediktsdatei Insolvency Scraper](https://apify.com/minute_contest/austria-ediktsdatei-scraper) - Bankruptcies and reorganizations (the official API requires an IWG license).
+- [Austria WKO Business Directory Scraper](https://apify.com/minute_contest/wko-business-directory-scraper) - 620,000+ Austrian business contacts from the WKO Chamber of Commerce.
+- [France Societe.com Company Scraper](https://apify.com/minute_contest/societe-com-scraper) - Directors, financials, and shareholders for French entities in a single call.
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
