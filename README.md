@@ -26,6 +26,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 ### Security & Privacy
 
 - [SOC Reports (SOC 1/2/3)](https://www.aicpa.org/soc) - AICPA Service Organization Control reports. SOC 1 for financial reporting controls, SOC 2 for security/availability/confidentiality/processing integrity/privacy controls, SOC 3 for public distribution.
+- [The Integrity Framework](https://theintegrityframework.org/framework/v1) - Product trustworthiness standard for sub-enterprise AI tools where SOC 2 does not apply. Self-mapped against six pre-build vetoes via a public INTEGRITY.md, listed in a tier-badged directory. CC BY 4.0, forkable.
 - [ISO/IEC 27001](https://www.iso.org/isoiec-27001-information-security.html) - International standard for establishing an Information Security Management System (ISMS). Requires annual certification audits.
 - [ISO/IEC 27002](https://www.iso.org/standard/75652.html) - Implementation guidance for ISO 27001 controls.
 - [ISO/IEC 27017](https://www.iso.org/standard/43757.html) - Cloud security controls based on ISO 27002.
