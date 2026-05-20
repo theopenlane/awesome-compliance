@@ -157,6 +157,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 - [Systima Comply](https://github.com/systima-ai/comply) - Open-source EU AI Act compliance scanner for CI/CD pipelines. AST-based detection of 37+ AI/ML frameworks with call-chain tracing and obligation checking against Articles 5-50. Ships as CLI, GitHub Action, and TypeScript API. Apache 2.0 licensed.
 - [AIR Blackbox](https://github.com/airblackbox/gateway) - Open-source EU AI Act compliance scanner and runtime trust layer for Python AI agents. 39 checks across Articles 9-15 with HMAC-SHA256 tamper-evident audit chains, PII detection, and prompt injection blocking. Trust layers for LangChain, CrewAI, AutoGen, OpenAI, Google ADK, and Claude Agent SDK. Ships as CLI, MCP server, and GitHub Action. Apache 2.0 licensed. ([Website](https://airblackbox.ai) | [PyPI](https://pypi.org/project/air-blackbox/))
 - [NeuralFlow](https://github.com/omergili/neuralflow) - Open-source EU AI Act Article 50 transparency toolkit. Adds machine-readable (JSON-LD, meta tags) and human-visible AI disclosure to websites with a single script tag. Ships as npm package (`@neuralflow/ai-act`), CLI, and WordPress plugin. 5.1 KB, zero dependencies. MIT licensed. ([npm](https://www.npmjs.com/package/@neuralflow/ai-act) | [Website](https://neuralflow.mylurch.com))
+-  [UK-EU AI Compliance OS](https://github.com/uk-ai-compliance-os/iso42001-uk-eu-rapid-compliance) - Production-grade ISO 42001 implementation toolkit and EU AI Act compliance templates for UK fintech, healthtech, legaltech, and insurtech. August 2026 deadline ready. Chat-only implementation support.
 
 ## Tools & Platforms
 
@@ -264,3 +265,4 @@ European government registries that lack public APIs - pay-per-use scrapers for 
 - [France Societe.com Company Scraper](https://apify.com/minute_contest/societe-com-scraper) - Directors, financials, and shareholders for French entities in a single call.
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
