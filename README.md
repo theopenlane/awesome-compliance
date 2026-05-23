@@ -231,6 +231,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 - [Proof](https://www.proof.com/) - ESG performance management platform.
 - [Sametrica](https://www.sametrica.com/) - ESG impact measurement software.
 - [Workiva](https://www.workiva.com/) - Cloud platform for ESG, financial, and compliance reporting.
+- [TrustYourWebsite](https://trustyourwebsite.com) - Deterministic GDPR/cookie scanner for EU and UK SMBs. DOM queries, regex, axe-core, HTTP checks. LLM use restricted to report copy, not the compliance checks themselves.
 
 ### Compliance Specifications & Resources
 
