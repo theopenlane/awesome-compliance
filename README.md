@@ -211,6 +211,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 - [Tugboat Logic](https://www.onegrc.com/) - Security assurance platform now part of OneTrust. Automated evidence collection and audit project management.
 - [Tenable](https://www.tenable.com/) - Cloud-based and On-prem vulnerability and exposure management.
 - [Hyperproof](https://hyperproof.io/) - Compliance operations platform for ongoing risk and compliance management. Workflow automation and continuous control monitoring.
+- [Komos](https://www.komos.ai/solutions/background-screening) - AI automation platform for regulated operations teams that need repeatable browser portal, document, and review queue workflows. Supports CRA operations, FCRA adverse action, insurance eligibility, and banking operations with run logs, screenshots, and audit trails.
 - [Sprinto](https://sprinto.com/) - Automated compliance platform for SOC 2, ISO 27001, GDPR, HIPAA.
 - [Oneleet](https://oneleet.com/) - Continuous compliance monitoring and automation platform.
 - [Scrut](https://scrut.io/) - Automated compliance platform with integrations for real-time monitoring.
