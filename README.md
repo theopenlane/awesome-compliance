@@ -248,6 +248,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 - [OpenControl](http://open-control.org/) - YAML-based compliance documentation framework.
 - [ComplianceForge](https://www.complianceforge.com/) - Commercial policy libraries and toolkits for multiple frameworks.
 - [Regulations.gov](https://www.regulations.gov/) - US federal regulations repository.
+- [BAA Atlas](https://baa-atlas.vercel.app) - Free per-vendor lookup of HIPAA Business Associate Agreement (BAA) availability across 80+ SaaS vendors, with plan-tier nuance (e.g. Slack signs a BAA only on Enterprise Grid; Calendly and Figma refuse on every plan). Each verdict links to the vendor's own primary source and a last-verified date.
 
 ### Regulatory Data Sources
 
