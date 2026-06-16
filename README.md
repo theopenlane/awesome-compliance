@@ -248,6 +248,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 - [OpenControl](http://open-control.org/) - YAML-based compliance documentation framework.
 - [ComplianceForge](https://www.complianceforge.com/) - Commercial policy libraries and toolkits for multiple frameworks.
 - [Regulations.gov](https://www.regulations.gov/) - US federal regulations repository.
+- [Superhighway](https://superhighway.walls.sh/guides/regulatory-research-agent) - Pay-per-call web search API for building regulatory research agents. Researches regulations, compliance requirements, and recent enforcement actions across live web sources, generating structured briefs with compliance checklists and penalty-exposure summaries. Structured JSON output, no signup or subscription.
 
 ### Regulatory Data Sources
 
