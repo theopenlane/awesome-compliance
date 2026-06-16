@@ -246,6 +246,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 - [OpenRegistry](https://openregistry.sophymarine.com) - Real-time MCP-server access to 27 national company registries for KYC / UBO / cross-border due-diligence. Includes UK Companies House, France RNE, Germany Handelsregister, Italy InfoCamere via BRIS, Spain BORME, Korea OpenDART, and 21 others.
 - [Unified Compliance Framework](https://www.unifiedcompliance.com/) - Common Controls Hub with 1000+ mapped authorities (Commercial).
 - [NIST OSCAL](https://pages.nist.gov/OSCAL/) - Open Security Controls Assessment Language for machine-readable compliance.
+- [PRML (Pre-Registered ML Manifest)](https://spec.falsify.dev/v0.1) - Open format binding an ML evaluation claim to a SHA-256 hash before the run, for tamper-evident EU AI Act Article 12/15 evidence. Four byte-equivalent reference implementations; CC BY 4.0.
 - [OpenControl](http://open-control.org/) - YAML-based compliance documentation framework.
 - [ComplianceForge](https://www.complianceforge.com/) - Commercial policy libraries and toolkits for multiple frameworks.
 - [Regulations.gov](https://www.regulations.gov/) - US federal regulations repository.
