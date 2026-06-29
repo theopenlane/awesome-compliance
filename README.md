@@ -76,3 +76,14 @@ MIT © [CSOAI-ORG](https://github.com/CSOAI-ORG)
 <p align="center">
   <sub>Built with 💜 by <a href="https://meok.ai">MEOK AI Labs</a> · UK Companies House 16939677</sub>
 </p>
+
+
+## MCP Servers (Model Context Protocol)
+
+*531 MIT-licensed MCP servers from CSOAI/MEOK Labs — the largest open-source MCP organization on GitHub. 97-component Ed25519-signed OSCAL Layer-0 proof. 479 deploy-ready.*
+
+- **[CSOAI/MEOK Labs MCP fleet](https://github.com/orgs/CSOAI-ORG/repositories?q=mcp)** — 531 MCPs across 7 hives covering the EU AI Act, GDPR, DORA, NIS2, ISO 42001, NIST AI RMF, HIPAA, SOX, PCI-DSS, Solvency II, ACORD, ISO 20022 + 22 legacy bridges.
+- **[oscal-generator-mcp](https://github.com/CSOAI-ORG/oscal-generator-mcp)** — Machine-readable NIST OSCAL generator + Ed25519 signer. FedRAMP RFC-0024 wedge.
+- **[csoai-governance-crosswalk-mcp](https://github.com/CSOAI-ORG/csoai-governance-crosswalk-mcp)** — 13 frameworks × 52 articles. The named crosswalk for AI governance.
+- **[eu-ai-act-compliance-mcp](https://github.com/CSOAI-ORG/eu-ai-act-compliance-mcp)** — EU AI Act compliance with 410 verbatim articles from EUR-Lex. 18 tools.
+
