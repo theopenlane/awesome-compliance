@@ -171,6 +171,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 - SEC filing microtools: [SEC Filing Fee Calculator](https://sec-filing-fee-calculator.vercel.app/), [Schedule 13D / 13G Deadline Calculator](https://sec-13d-13g-deadline-calculator.vercel.app/), [Form D Deadline Calculator](https://form-d-deadline-calculator.vercel.app/), and [Section 16 / Form 4 Deadline Calculator](https://section-16-deadline-calculator.vercel.app/) - Browser-only MIT-licensed worksheets for common SEC filing fee estimates and deadline-planning workflows, with memo/CSV exports and a Section 16 calendar export.
 - [Asqav](https://github.com/jagmarques/asqav-sdk) - Open-source SDK for AI agent governance with tamper-evident audit trails, tool scanning, and enforcement policies (MIT). Designed for teams running AI agents in production who need compliance-ready logging and control.
 - [Signet](https://github.com/Prismer-AI/signet) - Cryptographic action receipts for AI agents with Ed25519 signing, hash-chained audit trail, bilateral co-signing, policy engine, and MCP proxy (Apache-2.0 / MIT). Offline-verifiable evidence for every tool call — independent of any provider. ([npm](https://www.npmjs.com/package/@signet-auth/core) | [PyPI](https://pypi.org/project/signet-auth/) | [crates.io](https://crates.io/crates/signet-core))
+- [CSOAI OSCAL Generator](https://github.com/CSOAI-ORG/oscal-generator-mcp) - Open-source MCP server generating Ed25519-signed, machine-readable NIST OSCAL compliance packages — offline-verifiable EU AI Act Article-12 evidence. Validates under compliance-trestle; FedRAMP RFC-0024 readiness check. Flagship of a governed-MCP fleet including 22 legacy-system bridges (COBOL/SAP/SCADA/HL7/ISO-20022) other tools do not reach (Apache-2.0).
 - [Auditree Framework](https://github.com/ComplianceAsCode/auditree-framework) - IBM's framework for automated evidence collection and verification (Apache-2.0). Treats compliance checks as code with version-controlled evidence locker.
 - [Trestle](https://github.com/IBM/compliance-trestle) - IBM's compliance-as-code toolset using NIST's OSCAL format. Manages compliance catalogs and automates documentation generation.
 - [InSpec](https://www.inspec.io/) - Chef's compliance and security testing framework. Write automated compliance tests in Ruby DSL with pre-built profiles for CIS, DISA STIGs.
@@ -239,6 +240,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 - [Sametrica](https://www.sametrica.com/) - ESG impact measurement software.
 - [Workiva](https://www.workiva.com/) - Cloud platform for ESG, financial, and compliance reporting.
 - [TrustYourWebsite](https://trustyourwebsite.com) - Deterministic GDPR/cookie scanner for EU and UK SMBs. DOM queries, regex, axe-core, HTTP checks. LLM use restricted to report copy, not the compliance checks themselves.
+- [heygrc](https://heygrc.com/) - GitHub App that reviews pull requests against the compliance frameworks an organization must meet (ISO 27001, SOC 2, GDPR, EU AI Act, and more) and flags control-relevant changes inline, citing the specific control clause. By ISMS Copilot.
 
 ### Compliance Specifications & Resources
 
@@ -253,6 +255,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 - [ComplianceForge](https://www.complianceforge.com/) - Commercial policy libraries and toolkits for multiple frameworks.
 - [Regulations.gov](https://www.regulations.gov/) - US federal regulations repository.
 - [Superhighway](https://superhighway.walls.sh/guides/regulatory-research-agent) - Pay-per-call web search API for building regulatory research agents. Researches regulations, compliance requirements, and recent enforcement actions across live web sources, generating structured briefs with compliance checklists and penalty-exposure summaries. Structured JSON output, no signup or subscription.
+- [Awesome Corporate Standards](https://github.com/openapi/awesome-corporate-standards) - Curated reference list of international standards, frameworks, and certification bodies for organizations, spanning ISO 9001/27001/14001, GDPR, PCI DSS, SOX, AS9100, ISO 13485, and sector-specific compliance.
 
 ### Regulatory Data Sources
 
