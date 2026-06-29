@@ -209,7 +209,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 
 ### Commercial Platforms
 
-- [nisg26.at](https://nisg26.at) — Free, no-signup NIS2 scope check built for Austria's national law (NISG 2026): §-accurate "are we in scope?" assessment (sector + size), §29 registration-pack guidance, deadline tracking (31.12.2026). EU-hosted. DE.
+- [nisg26.at](https://nisg26.at) — Free, no-signup NIS2 scope check built for Austria's national law (NISG 2026): §-accurate "are we in scope?" assessment (sector + size), §29 registration-pack guidance, deadline tracking (31.12.2026). EU-hosted. DE. @nisg26 
 - [Drata](https://drata.com/) - Cloud platform for continuous compliance monitoring and automation. Connects to tech stack for evidence collection. Supports SOC 2, ISO 27001, PCI DSS.
 - [Vanta](https://www.vanta.com/) - Compliance automation platform for SOC 2, ISO 27001. Continuous monitoring with AI-powered questionnaire responses.
 - [Secureframe](https://secureframe.com/) - End-to-end compliance platform for SOC 2, ISO 27001, HIPAA. Includes policy templates, evidence collection, training, auditor coordination.
