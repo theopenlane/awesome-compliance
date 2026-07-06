@@ -258,6 +258,14 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 
 ### Regulatory Data Sources
 
+Programmatic access to regulatory filings, corporate disclosures, and government registries for KYC/AML due diligence, ESG compliance, disclosure monitoring, and beneficial-owner verification.
+
+#### United States
+
+- [FilingFirehose](https://filingfirehose.com) - Risk-scored REST API over SEC EDGAR filings (8-K, 10-K, 10-Q, S-3). Free tier with red-flag classification (going-concern, restatement, cyber, officer departure, dilution) and per-ticker AI analysis reports. Companion open-source classifier at [buried-events-parser](https://github.com/jaablon/buried-events-parser) (MIT). Useful for continuous monitoring of vendor / portfolio-company disclosures and SOX/audit workflow triggers.
+
+#### Europe
+
 European government registries that lack public APIs - pay-per-use scrapers for KYC/AML due diligence, beneficial-owner verification, debtor and insolvency screening, and ESG compliance. Structured JSON output, no monthly subscription. All published on Apify Store under [@minute_contest](https://apify.com/minute_contest).
 
 - [Poland KRS Financial Statements Scraper](https://apify.com/minute_contest/poland-krs-financial-scraper) - Structured balance sheets and income statements parsed from the Polish National Court Register (KRS). Pay-per-use programmatic alternative to manual eKRS PDF lookups.
