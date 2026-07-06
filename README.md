@@ -240,6 +240,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 - [Workiva](https://www.workiva.com/) - Cloud platform for ESG, financial, and compliance reporting.
 - [TrustYourWebsite](https://trustyourwebsite.com) - Deterministic GDPR/cookie scanner for EU and UK SMBs. DOM queries, regex, axe-core, HTTP checks. LLM use restricted to report copy, not the compliance checks themselves.
 - [heygrc](https://heygrc.com/) - GitHub App that reviews pull requests against the compliance frameworks an organization must meet (ISO 27001, SOC 2, GDPR, EU AI Act, and more) and flags control-relevant changes inline, citing the specific control clause. By ISMS Copilot.
+- [EUDR-Ready](https://eudrdesk.eu/) - Done-for-you EU Deforestation Regulation (Regulation (EU) 2023/1115) compliance: commodity/HS-code scope check, TRACES NT registration, and first Due Diligence Statement filing, ahead of the Dec 2026 / Jun 2027 deadlines.
 
 ### Compliance Specifications & Resources
 
