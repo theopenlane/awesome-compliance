@@ -223,6 +223,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 - [Oneleet](https://oneleet.com/) - Continuous compliance monitoring and automation platform.
 - [Scrut](https://scrut.io/) - Automated compliance platform with integrations for real-time monitoring.
 - [Thoropass](https://thoropass.com/) - Information security and compliance software.
+- [Scorifya Controls](https://www.scorifya.com/controls) - Self-hosted SOC 2 and PCI DSS 4.0.1 readiness platform. Runs 38 automated checks against AWS, GCP, Azure, and GitHub, tracks manual controls with RFC 3161 timestamped attestations, and generates a read-only auditor portal. Deploys via Docker so compliance evidence stays on your own infrastructure.
 - [AuditBoard](https://www.auditboard.com/) - Leading platform for audit and compliance management. One-stop solution for managing audits, controls, risks, and reporting.
 - [Archer](https://www.archerirm.com/) - RSA's GRC platform widely used in enterprises.
 - [LogicGate](https://www.logicgate.com/) - Risk Cloud platform tailored for IT Risk, Compliance, Third-Party Risk.
