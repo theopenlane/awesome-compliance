@@ -254,6 +254,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 - [NIST OSCAL](https://pages.nist.gov/OSCAL/) - Open Security Controls Assessment Language for machine-readable compliance.
 - [PRML (Pre-Registered ML Manifest)](https://spec.falsify.dev/v0.1) - Open format binding an ML evaluation claim to a SHA-256 hash before the run, for tamper-evident EU AI Act Article 12/15 evidence. Four byte-equivalent reference implementations; CC BY 4.0.
 - [OpenControl](http://open-control.org/) - YAML-based compliance documentation framework.
+- [ComplianceDocs Free Policy Templates](https://github.com/ComplianceDocs/compliance-policy-templates) - Open-source, complete policy templates (HIPAA sanction policy, ISO 27001 ISMS scope statement, SOC 2 change management) in Markdown and editable Word; CC BY 4.0, no email gate.
 - [ComplianceForge](https://www.complianceforge.com/) - Commercial policy libraries and toolkits for multiple frameworks.
 - [Regulations.gov](https://www.regulations.gov/) - US federal regulations repository.
 - [Superhighway](https://superhighway.walls.sh/guides/regulatory-research-agent) - Pay-per-call web search API for building regulatory research agents. Researches regulations, compliance requirements, and recent enforcement actions across live web sources, generating structured briefs with compliance checklists and penalty-exposure summaries. Structured JSON output, no signup or subscription.
