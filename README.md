@@ -220,6 +220,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 - [Komos](https://www.komos.ai/solutions/background-screening) - AI automation platform for regulated operations teams that need repeatable browser portal, document, and review queue workflows. Supports CRA operations, FCRA adverse action, insurance eligibility, and banking operations with run logs, screenshots, and audit trails.
 - [Sprinto](https://sprinto.com/) - Automated compliance platform for SOC 2, ISO 27001, GDPR, HIPAA.
 - [Tuning Engines](https://www.tuningengines.com/) - AI control and evidence plane for governed model, MCP, skill, and agent traffic. Captures policy decisions, approvals, cost analytics, traces, runtime state references, and outcomes for audit-ready AI operations.
+- [Ansvar Gateway](https://ansvar.eu/) - MCP gateway that connects AI agents (Claude, Copilot, ChatGPT) to European and US laws, regulations, and standards — 46 jurisdictions with paragraph-level citations to the official publisher. Compliance workflows for threat modeling, DPIA, and NIS2/DORA/CRA gap analysis with audit-ready output. (Freemium)
 - [Oneleet](https://oneleet.com/) - Continuous compliance monitoring and automation platform.
 - [Scrut](https://scrut.io/) - Automated compliance platform with integrations for real-time monitoring.
 - [Thoropass](https://thoropass.com/) - Information security and compliance software.
