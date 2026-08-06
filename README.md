@@ -259,6 +259,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 - [Superhighway](https://superhighway.walls.sh/guides/regulatory-research-agent) - Pay-per-call web search API for building regulatory research agents. Researches regulations, compliance requirements, and recent enforcement actions across live web sources, generating structured briefs with compliance checklists and penalty-exposure summaries. Structured JSON output, no signup or subscription.
 - [Awesome Corporate Standards](https://github.com/openapi/awesome-corporate-standards) - Curated reference list of international standards, frameworks, and certification bodies for organizations, spanning ISO 9001/27001/14001, GDPR, PCI DSS, SOX, AS9100, ISO 13485, and sector-specific compliance.
 - [SSKG Hub](https://www.sskg-hub.com/) - Expert-guided platform that turns sustainability disclosure standards (GRI, SASB, TCFD, IFRS S2) into auditable, provenance-linked knowledge graphs — LLM-extracted, expert-certified, machine-queryable representations of the standards themselves ([paper](https://arxiv.org/abs/2603.00669)).
+- [Chiaro SOC 2 Methodology](https://github.com/Chiaro-HQ/methodology) - A CPA firm's complete SOC 2 audit methodology in machine-readable form: 89 controls, 369 test attributes with pass criteria, the 61 Trust Services Criteria, evidence standards by source, a HIPAA Security Rule crosswalk, and a census-based Type II testing method with worked deviation examples. CC BY 4.0.
 
 ### Regulatory Data Sources
 
