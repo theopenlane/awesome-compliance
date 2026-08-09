@@ -268,6 +268,10 @@ Programmatic access to regulatory filings, corporate disclosures, and government
 
 - [FilingFirehose](https://filingfirehose.com) - Risk-scored REST API over SEC EDGAR filings (8-K, 10-K, 10-Q, S-3). Free tier with red-flag classification (going-concern, restatement, cyber, officer departure, dilution) and per-ticker AI analysis reports. Companion open-source classifier at [buried-events-parser](https://github.com/jaablon/buried-events-parser) (MIT). Useful for continuous monitoring of vendor / portfolio-company disclosures and SOX/audit workflow triggers.
 
+#### Asia-Pacific
+
+- [shakalakaa Compliance Rule Sets](https://github.com/shakalakaa-plixitt/compliance-rules) - Machine-readable healthcare/advertising compliance rules (JSON) for Malaysia, Singapore, Australia, Hong Kong and Taiwan - MOH/HCSA, AHPRA, PDPA-DNC, KKM/MMC, MDC, TFDA and moneylending-advertising rule sets, 10 files total. Each rule carries its own `source_url`/`source_note` disclosing whether it's independently verified against a primary regulator or left honestly `null`, rather than a blanket file-level sourcing claim. CC BY 4.0.
+
 #### Europe
 
 European government registries that lack public APIs - pay-per-use scrapers for KYC/AML due diligence, beneficial-owner verification, debtor and insolvency screening, and ESG compliance. Structured JSON output, no monthly subscription. All published on Apify Store under [@minute_contest](https://apify.com/minute_contest).
