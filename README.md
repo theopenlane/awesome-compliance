@@ -178,6 +178,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 - [InSpec](https://www.inspec.io/) - Chef's compliance and security testing framework. Write automated compliance tests in Ruby DSL with pre-built profiles for CIS, DISA STIGs.
 - [OpenSCAP](https://www.open-scap.org/) - Security Content Automation Protocol toolset for automated system scanning against SCAP benchmarks (Red Hat sponsored).
 - [Lynis](https://cisofy.com/lynis/) - Security auditing tool for Unix/Linux systems. Performs host configuration scans and generates hardening reports.
+- [Apotrope](https://github.com/hexorcist404/apotrope) - Offline security posture auditor for Windows. Runs 50+ checks mapped to CIS Microsoft Windows Benchmarks and generates scored HTML/JSON reports.
 - [Cloud Custodian](https://cloudcustodian.io/) - CNCF Sandbox rules engine for cloud compliance. Write policies in YAML to enforce and remediate violations in AWS, Azure, GCP.
 - [Prowler](https://github.com/prowler-cloud/prowler) - AWS security and compliance scanner. Checks against AWS CIS Benchmark, GDPR, HIPAA, PCI DSS, SOC 2.
 - [ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-cloud security auditing tool by NCC Group. Detects misconfigurations in AWS, Azure, GCP.
