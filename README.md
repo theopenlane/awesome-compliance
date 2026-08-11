@@ -289,5 +289,6 @@ European government registries that lack public APIs - pay-per-use scrapers for 
 - [Austria Ediktsdatei Insolvency Scraper](https://apify.com/minute_contest/austria-ediktsdatei-scraper) - Bankruptcies and reorganizations (the official API requires an IWG license).
 - [Austria WKO Business Directory Scraper](https://apify.com/minute_contest/wko-business-directory-scraper) - 620,000+ Austrian business contacts from the WKO Chamber of Commerce.
 - [France Societe.com Company Scraper](https://apify.com/minute_contest/societe-com-scraper) - Directors, financials, and shareholders for French entities in a single call.
+- [EU Regulatory Enforcement Tracker](https://regdossier.eu/eu-enforcement-tracker/) - Consolidated public enforcement record across GDPR, NIS2, DORA, AI Act, CSRD, CBAM, CRA and EUDR, with national penalty ceilings and supervisory order counts per authority. Every figure links to its primary source. Free, no sign-up.
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
