@@ -263,6 +263,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 - [Superhighway](https://superhighway.walls.sh/guides/regulatory-research-agent) - Pay-per-call web search API for building regulatory research agents. Researches regulations, compliance requirements, and recent enforcement actions across live web sources, generating structured briefs with compliance checklists and penalty-exposure summaries. Structured JSON output, no signup or subscription.
 - [Awesome Corporate Standards](https://github.com/openapi/awesome-corporate-standards) - Curated reference list of international standards, frameworks, and certification bodies for organizations, spanning ISO 9001/27001/14001, GDPR, PCI DSS, SOX, AS9100, ISO 13485, and sector-specific compliance.
 - [SSKG Hub](https://www.sskg-hub.com/) - Expert-guided platform that turns sustainability disclosure standards (GRI, SASB, TCFD, IFRS S2) into auditable, provenance-linked knowledge graphs — LLM-extracted, expert-certified, machine-queryable representations of the standards themselves ([paper](https://arxiv.org/abs/2603.00669)).
+- [Security Questionnaire Answers](https://github.com/plainanswer/security-questionnaire-answers) - CC0 public-domain answer bank for responding to vendor security questionnaires: 101 recurring questions across 11 sections with model answers written for companies that do not have SOC 2 or ISO 27001. Each answer gives a position, the underlying fact, and — where the answer is "no" — the compensating control.
 
 ### Regulatory Data Sources
 
