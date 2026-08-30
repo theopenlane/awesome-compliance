@@ -291,4 +291,12 @@ European government registries that lack public APIs - pay-per-use scrapers for 
 - [Austria WKO Business Directory Scraper](https://apify.com/minute_contest/wko-business-directory-scraper) - 620,000+ Austrian business contacts from the WKO Chamber of Commerce.
 - [France Societe.com Company Scraper](https://apify.com/minute_contest/societe-com-scraper) - Directors, financials, and shareholders for French entities in a single call.
 
+#### Caucasus
+
+- [Georgia (country) Company Registry Lookup](https://apify.com/reestri/ge-company-lookup) - NAPR business register by name or ID code: status, legal form, evidence blocks. Pay per lookup.
+- [Georgia Person to Companies Search](https://apify.com/reestri/ge-person-search) - Companies a person or organisation participates in, from NAPR. Pay per lookup.
+- [Armenia Company Registry and Beneficial Owners](https://apify.com/reestri/am-company-lookup) - State register plus official beneficial-ownership declarations (BODS). Pay per lookup.
+- [Armenia Supplier Public Contracts](https://apify.com/reestri/am-supplier-contracts) - Every public procurement contract an Armenian supplier has won, from the official PPCM registry. Pay per lookup.
+- [Caucasus Company Screen](https://apify.com/reestri/company-screen) - One call across Georgia, Armenia and Moldova registers with an evidence-backed summary. Pay per lookup.
+
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
