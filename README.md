@@ -254,6 +254,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 - [Azure Compliance](https://learn.microsoft.com/en-us/azure/compliance/) - Microsoft Azure compliance documentation and reports.
 - [GCP Compliance](https://cloud.google.com/security/compliance) - Google Cloud compliance resources and certifications.
 - [OpenRegistry](https://openregistry.sophymarine.com) - Real-time MCP-server access to 27 national company registries for KYC / UBO / cross-border due-diligence. Includes UK Companies House, France RNE, Germany Handelsregister, Italy InfoCamere via BRIS, Spain BORME, Korea OpenDART, and 21 others.
+- [Company Records](https://records.knowyourcustomer.com) - Live company-registry search across 149 jurisdictions for KYC/KYB due diligence. Search is free and anonymous; on purchase, the company report and the underlying official filings are retrieved live from the official register, not from a cached aggregate (paid, from US$19, no subscription).
 - [Unified Compliance Framework](https://www.unifiedcompliance.com/) - Common Controls Hub with 1000+ mapped authorities (Commercial).
 - [NIST OSCAL](https://pages.nist.gov/OSCAL/) - Open Security Controls Assessment Language for machine-readable compliance.
 - [PRML (Pre-Registered ML Manifest)](https://spec.falsify.dev/v0.1) - Open format binding an ML evaluation claim to a SHA-256 hash before the run, for tamper-evident EU AI Act Article 12/15 evidence. Four byte-equivalent reference implementations; CC BY 4.0.
