@@ -252,6 +252,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 
 - [AWS Artifact](https://aws.amazon.com/artifact/) - Access AWS compliance reports (SOC, ISO, PCI, etc.).
 - [Azure Compliance](https://learn.microsoft.com/en-us/azure/compliance/) - Microsoft Azure compliance documentation and reports.
+- [Small Business AI Acceptable Use Policy Template](https://github.com/brandquill/small-business-ai-policy-template) - Free editable Word policy pack covering approved AI tools, confidential data, human review, prohibited uses, incidents, and employee acknowledgement.
 - [GCP Compliance](https://cloud.google.com/security/compliance) - Google Cloud compliance resources and certifications.
 - [OpenRegistry](https://openregistry.sophymarine.com) - Real-time MCP-server access to 27 national company registries for KYC / UBO / cross-border due-diligence. Includes UK Companies House, France RNE, Germany Handelsregister, Italy InfoCamere via BRIS, Spain BORME, Korea OpenDART, and 21 others.
 - [Unified Compliance Framework](https://www.unifiedcompliance.com/) - Common Controls Hub with 1000+ mapped authorities (Commercial).
