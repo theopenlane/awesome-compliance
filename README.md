@@ -194,6 +194,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 - [kube-bench](https://github.com/aquasecurity/kube-bench) - Checks Kubernetes clusters against CIS Kubernetes Benchmark.
 - [Kyverno](https://kyverno.io/) - Kubernetes-native policy management. Enforce, validate, and mutate configurations.
 - [OPA Gatekeeper](https://open-policy-agent.github.io/gatekeeper/) - Policy controller for Kubernetes using Open Policy Agent.
+- [Cerbos](https://github.com/cerbos/cerbos) - Policy-as-code runtime authorization for human and non-human identities. Audit logs of every access decision (Apache-2.0).
 - [Havengrc](https://havengrc.com/) - Open-source GRC platform for compliance management.
 - [GGRC Core](https://github.com/google/ggrc-core) - Google's governance, risk, and compliance platform (archived but historically significant).
 - [Govready](https://github.com/GovReady/govready-q) - Open-source GRC platform for automated compliance assessments.
