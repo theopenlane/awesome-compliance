@@ -291,4 +291,8 @@ European government registries that lack public APIs - pay-per-use scrapers for 
 - [Austria WKO Business Directory Scraper](https://apify.com/minute_contest/wko-business-directory-scraper) - 620,000+ Austrian business contacts from the WKO Chamber of Commerce.
 - [France Societe.com Company Scraper](https://apify.com/minute_contest/societe-com-scraper) - Directors, financials, and shareholders for French entities in a single call.
 
+#### Cross-Jurisdiction
+
+- [Zyphe AML Enforcement Tracker](https://www.zyphe.com/resources/aml-enforcement-tracker) - Open dataset of AML/BSA fines, sanctions actions, GDPR enforcement decisions, and identity-data breaches affecting banks, crypto platforms, payment firms, and gambling operators. 27 records from 20 regulators across 10 jurisdictions (Nov 2023 to Aug 2026), every row carrying the penalty in its announced currency, a normalised USD value, and a link to the primary regulator announcement. Direct download as [CSV](https://www.zyphe.com/enforcement.csv), [JSON](https://www.zyphe.com/enforcement.json), and [XML](https://www.zyphe.com/enforcement.xml), no login or paywall, CC BY 4.0.
+
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
