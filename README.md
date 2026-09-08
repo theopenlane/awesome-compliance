@@ -288,6 +288,13 @@ European government registries that lack public APIs - pay-per-use scrapers for 
 - [Spain BORME Corporate Acts Parser](https://apify.com/minute_contest/borme-corporate-acts-scraper) - Structured corporate-acts data parsed from Spain's official gazette (BORME) PDFs.
 - [Spain Company Directory Scraper (Registro Mercantil)](https://apify.com/minute_contest/spain-company-directory-scraper) - NIF, officers, and CNAE codes from Registro Mercantil open data.
 - [Austria Ediktsdatei Insolvency Scraper](https://apify.com/minute_contest/austria-ediktsdatei-scraper) - Bankruptcies and reorganizations (the official API requires an IWG license).
+
+#### Japan
+
+Machine-readable registers of Japanese administrative enforcement, structured from the agencies' own published case pages with a source URL on every record. Useful for advertising review, marketing-claim sign-off, and supplier or agency due diligence. Free; data under the Public Data License 1.0, code MIT.
+
+- [keihyo-cases](https://eoylab.github.io/keihyo-cases/) - Consumer Affairs Agency orders under the Act against Unjustifiable Premiums and Misleading Representations (景品表示法) — 措置命令 and 課徴金納付命令 — with the provisions cited in each order. JSON/JSONL/CSV plus an MCP server on the official registry.
+- [jftc-actions](https://eoylab.github.io/jftc-actions/) - Japan Fair Trade Commission cease-and-desist orders (Antimonopoly Act) and Subcontract Act (取適法, formerly 下請法) recommendations. Same shape and licensing; personal names of sole proprietors are removed from the structured fields.
 - [Austria WKO Business Directory Scraper](https://apify.com/minute_contest/wko-business-directory-scraper) - 620,000+ Austrian business contacts from the WKO Chamber of Commerce.
 - [France Societe.com Company Scraper](https://apify.com/minute_contest/societe-com-scraper) - Directors, financials, and shareholders for French entities in a single call.
 
