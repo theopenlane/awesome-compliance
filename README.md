@@ -270,6 +270,7 @@ Programmatic access to regulatory filings, corporate disclosures, and government
 
 #### United States
 
+- [ArcNautical Vessel Sanctions Screening API](https://arcnautical.com/sanctions-screening-api/) - Keyless REST endpoint that screens a vessel by IMO number against OFAC SDN (plus the EU, UN and UK OFSI lists) and returns a verdict with the lists that were reachable, an ownership-opacity score and a vetting grade. Free tier with no account (100 requests/hour); self-serve keys add screening records retained ten years, fleet screening and monitors. OpenAPI 3.1 spec published.
 - [FilingFirehose](https://filingfirehose.com) - Risk-scored REST API over SEC EDGAR filings (8-K, 10-K, 10-Q, S-3). Free tier with red-flag classification (going-concern, restatement, cyber, officer departure, dilution) and per-ticker AI analysis reports. Companion open-source classifier at [buried-events-parser](https://github.com/jaablon/buried-events-parser) (MIT). Useful for continuous monitoring of vendor / portfolio-company disclosures and SOX/audit workflow triggers.
 
 #### Europe
