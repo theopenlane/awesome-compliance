@@ -188,6 +188,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 - [Wazuh](https://wazuh.com/) - Open source security platform with SIEM and HIDS capabilities. Provides compliance rule sets for PCI DSS, GDPR, HIPAA with reporting.
 - [CISO Assistant](https://github.com/intuitem/ciso-assistant-community) - Open-source GRC app supporting 40+ frameworks. Manages risks, controls, audits with one-click audit reports.
 - [Comp AI](https://github.com/trycompai/comp) - Open source compliance platform (AGPL-3.0) for SOC 2, ISO 27001, HIPAA, GDPR.
+- [LLM ISO27001](https://github.com/kriss-b/llm-iso27001) - Open-source ISO 27001 (+ 42001 + NIS2) ISMS framework designed to be entirely managed by LLM Agents
 - [Eramba](https://www.eramba.org/) - Enterprise GRC platform with free Community Edition. Modules for compliance, risk management, incidents, vendor assessments.
 - [Trivy](https://github.com/aquasecurity/trivy) - Comprehensive security scanner for containers and IaC. Detects vulnerabilities, misconfigurations, secrets.
 - [kube-bench](https://github.com/aquasecurity/kube-bench) - Checks Kubernetes clusters against CIS Kubernetes Benchmark.
