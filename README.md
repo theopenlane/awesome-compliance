@@ -164,7 +164,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 ### Open Source Platforms
 
 - [Openlane](https://www.theopenlane.io/) - Comprehensive compliance automation platform for SOC 2, ISO 27001, and custom frameworks (Apache-2.0). Transforms compliance from static annual process to continuous collaborative workflow with risk register, policy management, evidence lifecycle, and control validation. ([GitHub](https://github.com/theopenlane) | [Docs](https://docs.theopenlane.io/))
-- [Objective320](https://objective320.com) - Free, no-signup CMMC / NIST SP 800-171 toolkit: a SPRS score calculator, an SSP generator, and a plain-English reference to all 110 controls. Browser-based, CC BY 4.0. ([GitHub](https://github.com/BrianRDS1518/cmmc-nist-800-171-reference))
+- [Objective320](https://objective320.com) - Free, no-signup CMMC / NIST SP 800-171 toolkit: a SPRS score calculator, an SSP generator, a POA&M generator, and a plain-English reference to all 110 controls. Browser-based, CC BY 4.0. ([GitHub](https://github.com/BrianRDS1518/cmmc-nist-800-171-reference))
 - [CISA KEV Deadline Planner](https://kev-deadline-planner.vercel.app/) - Turner Levey. Open-source browser tool for checking CISA Known Exploited Vulnerabilities and BOD 22-01 remediation due dates without login or tracking. ([GitHub](https://github.com/Turner-Levey/kev-deadline-planner))
 - [SOC 2 Reliability Guild](https://s2guild.org/) - A community creating standardized evaluation criteria to help GRC and TPRM practitioners assess how much weight to give a SOC 2 report when making vendor trust decisions. ([GitHub](https://github.com/SOC-2-Quality-Guild/s2guild.org))
 - [Comply](https://github.com/strongdm/comply) - SOC 2 compliance automation framework by StrongDM (Apache-2.0). Provides markdown-based policy templates and document pipeline for auditor-ready policies.
@@ -178,6 +178,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 - [InSpec](https://www.inspec.io/) - Chef's compliance and security testing framework. Write automated compliance tests in Ruby DSL with pre-built profiles for CIS, DISA STIGs.
 - [OpenSCAP](https://www.open-scap.org/) - Security Content Automation Protocol toolset for automated system scanning against SCAP benchmarks (Red Hat sponsored).
 - [Lynis](https://cisofy.com/lynis/) - Security auditing tool for Unix/Linux systems. Performs host configuration scans and generates hardening reports.
+- [Apotrope](https://github.com/hexorcist404/apotrope) - Offline security posture auditor for Windows. Runs 50+ checks mapped to CIS Microsoft Windows Benchmarks and generates scored HTML/JSON reports.
 - [Cloud Custodian](https://cloudcustodian.io/) - CNCF Sandbox rules engine for cloud compliance. Write policies in YAML to enforce and remediate violations in AWS, Azure, GCP.
 - [Prowler](https://github.com/prowler-cloud/prowler) - AWS security and compliance scanner. Checks against AWS CIS Benchmark, GDPR, HIPAA, PCI DSS, SOC 2.
 - [ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-cloud security auditing tool by NCC Group. Detects misconfigurations in AWS, Azure, GCP.
@@ -187,6 +188,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 - [Wazuh](https://wazuh.com/) - Open source security platform with SIEM and HIDS capabilities. Provides compliance rule sets for PCI DSS, GDPR, HIPAA with reporting.
 - [CISO Assistant](https://github.com/intuitem/ciso-assistant-community) - Open-source GRC app supporting 40+ frameworks. Manages risks, controls, audits with one-click audit reports.
 - [Comp AI](https://github.com/trycompai/comp) - Open source compliance platform (AGPL-3.0) for SOC 2, ISO 27001, HIPAA, GDPR.
+- [LLM ISO27001](https://github.com/kriss-b/llm-iso27001) - Open-source ISO 27001 (+ 42001 + NIS2) ISMS framework designed to be entirely managed by LLM Agents
 - [Eramba](https://www.eramba.org/) - Enterprise GRC platform with free Community Edition. Modules for compliance, risk management, incidents, vendor assessments.
 - [Trivy](https://github.com/aquasecurity/trivy) - Comprehensive security scanner for containers and IaC. Detects vulnerabilities, misconfigurations, secrets.
 - [kube-bench](https://github.com/aquasecurity/kube-bench) - Checks Kubernetes clusters against CIS Kubernetes Benchmark.
@@ -217,9 +219,11 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 - [Tugboat Logic](https://www.onegrc.com/) - Security assurance platform now part of OneTrust. Automated evidence collection and audit project management.
 - [Tenable](https://www.tenable.com/) - Cloud-based and On-prem vulnerability and exposure management.
 - [Hyperproof](https://hyperproof.io/) - Compliance operations platform for ongoing risk and compliance management. Workflow automation and continuous control monitoring.
+- [ISMS Copilot](https://www.ismscopilot.com/) - Specialized AI assistant for ISO 27001, SOC 2, NIS 2, GDPR, DORA, NIST, ISO 42001, EU AI Act, and related frameworks. Policy drafting, gap analysis, control mapping, multi-client workspaces, optional EU AI mode. Complements evidence-automation platforms rather than replacing them. Free tools hub: [ismscopilot.com/resources](https://www.ismscopilot.com/resources).
 - [Komos](https://www.komos.ai/solutions/background-screening) - AI automation platform for regulated operations teams that need repeatable browser portal, document, and review queue workflows. Supports CRA operations, FCRA adverse action, insurance eligibility, and banking operations with run logs, screenshots, and audit trails.
 - [Sprinto](https://sprinto.com/) - Automated compliance platform for SOC 2, ISO 27001, GDPR, HIPAA.
 - [Tuning Engines](https://www.tuningengines.com/) - AI control and evidence plane for governed model, MCP, skill, and agent traffic. Captures policy decisions, approvals, cost analytics, traces, runtime state references, and outcomes for audit-ready AI operations.
+- [Ansvar Gateway](https://ansvar.eu/) - MCP gateway that connects AI agents (Claude, Copilot, ChatGPT) to European and US laws, regulations, and standards — 46 jurisdictions with paragraph-level citations to the official publisher. Compliance workflows for threat modeling, DPIA, and NIS2/DORA/CRA gap analysis with audit-ready output. (Freemium)
 - [Oneleet](https://oneleet.com/) - Continuous compliance monitoring and automation platform.
 - [Scrut](https://scrut.io/) - Automated compliance platform with integrations for real-time monitoring.
 - [Thoropass](https://thoropass.com/) - Information security and compliance software.
