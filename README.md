@@ -291,4 +291,9 @@ European government registries that lack public APIs - pay-per-use scrapers for 
 - [Austria WKO Business Directory Scraper](https://apify.com/minute_contest/wko-business-directory-scraper) - 620,000+ Austrian business contacts from the WKO Chamber of Commerce.
 - [France Societe.com Company Scraper](https://apify.com/minute_contest/societe-com-scraper) - Directors, financials, and shareholders for French entities in a single call.
 
+#### Asia-Pacific
+
+- [China USCI Checker](https://currawongweb.com/verify/china-usci-checker/) - Browser-side format and check-digit validation for the 18-character Unified Social Credit Identifier (USCI) printed on mainland China business licences, per GB 32100-2015. Free, no account, no registry call - catches transcription errors before a paid lookup. Does not prove the entity exists or is active.
+- [Overseas availability of Chinese official registries](https://currawongweb.com/verify/china-official-source-availability/) - Measured data on which official Chinese verification portals answer from nodes outside mainland China. Relevant when scoping China KYC coverage: GSXT refused every overseas node tested, and the court judgement-defaulter database answered Hong Kong while refusing nodes in 19 other countries. Underlying datasets published with DOIs.
+
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
