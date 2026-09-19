@@ -293,7 +293,7 @@ European government registries that lack public APIs - pay-per-use scrapers for 
 
 #### Asia-Pacific
 
-- [China USCI Checker](https://currawongweb.com/verify/china-usci-checker/) - Browser-side format and check-digit validation for the 18-character Unified Social Credit Identifier (USCI) printed on mainland China business licences, per GB 32100-2015. Free, no account, no registry call - catches transcription errors before a paid lookup. Does not prove the entity exists or is active.
-- [Overseas availability of Chinese official registries](https://currawongweb.com/verify/china-official-source-availability/) - 240 measured HTTP observations from 34 countries plus 50,248 RIPE Atlas network-layer measurements. Relevant when scoping China KYC coverage: three of the eight sources answer normally from abroad, while GSXT returns HTTP 403 on 21 of 24 observations, Credit China and Customs return 412, and the judgement-defaulter search returns 403 everywhere except Hong Kong. The refusals are application-layer - TLS handshakes complete on 92-99 percent of attempts. Underlying datasets published with DOIs.
+- [China USCI Checker](https://currawongweb.com/verify/china-usci-checker/) - Browser-side check-digit validation for the 18-character Unified Social Credit Identifier (GB 32100-2015). Free, no account, no registry call.
+- [Chinese registry reachability from abroad](https://currawongweb.com/verify/china-official-source-availability/) - Measured HTTP behaviour of eight official Chinese portals from 34 countries. GSXT returns 403; three answer normally. Datasets under DOI.
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
