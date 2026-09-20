@@ -239,6 +239,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 - [Benchmark ESG](https://www.benchmarkesg.com/) - ESG data management and reporting platform.
 - [Diligent ESG](https://www.diligent.com/solutions/esg) - ESG governance and reporting solution.
 - [Locus Technologies](https://www.locustec.com/) - Environmental, health, safety, and sustainability management software.
+- [ComplyOnSite](https://complyonsite.com/) - Construction health, safety and environmental compliance software for UK contractors.
 - [Novata](https://www.novata.com/) - ESG data management for private markets.
 - [Novisto](https://www.novisto.com/) - ESG reporting automation platform.
 - [Proof](https://www.proof.com/) - ESG performance management platform.
