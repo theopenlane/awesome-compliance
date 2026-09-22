@@ -213,6 +213,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 
 ### Commercial Platforms
 
+- [Allowly Hiring Evidence](https://allowly.ai/docs/solutions/hiring/) - Deterministic policy runner for structured employment screening. Evaluates selected fields under an approved policy, records linked reviews and corrections, and exports Hiring Decision Packs with signed records. (Freemium)
 - [Drata](https://drata.com/) - Cloud platform for continuous compliance monitoring and automation. Connects to tech stack for evidence collection. Supports SOC 2, ISO 27001, PCI DSS.
 - [Vanta](https://www.vanta.com/) - Compliance automation platform for SOC 2, ISO 27001. Continuous monitoring with AI-powered questionnaire responses.
 - [Secureframe](https://secureframe.com/) - End-to-end compliance platform for SOC 2, ISO 27001, HIPAA. Includes policy templates, evidence collection, training, auditor coordination.
