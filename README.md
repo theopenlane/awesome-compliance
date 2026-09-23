@@ -21,7 +21,6 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
   - [Compliance Specifications & Resources](#compliance-specifications--resources)
   - [Regulatory Data Sources](#regulatory-data-sources)
 
-
 ## Frameworks & Standards
 
 ### Security & Privacy
@@ -157,23 +156,14 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 - [Systima Comply](https://github.com/systima-ai/comply) - Open-source EU AI Act compliance scanner for CI/CD pipelines. AST-based detection of 37+ AI/ML frameworks with call-chain tracing and obligation checking against Articles 5-50. Ships as CLI, GitHub Action, and TypeScript API. Apache 2.0 licensed.
 - [AIR Blackbox](https://github.com/airblackbox/gateway) - Open-source EU AI Act compliance scanner and runtime trust layer for Python AI agents. 39 checks across Articles 9-15 with HMAC-SHA256 tamper-evident audit chains, PII detection, and prompt injection blocking. Trust layers for LangChain, CrewAI, AutoGen, OpenAI, Google ADK, and Claude Agent SDK. Ships as CLI, MCP server, and GitHub Action. Apache 2.0 licensed. ([Website](https://airblackbox.ai) | [PyPI](https://pypi.org/project/air-blackbox/))
 - [NeuralFlow](https://github.com/omergili/neuralflow) - Open-source EU AI Act Article 50 transparency toolkit. Adds machine-readable (JSON-LD, meta tags) and human-visible AI disclosure to websites with a single script tag. Ships as npm package (`@neuralflow/ai-act`), CLI, and WordPress plugin. 5.1 KB, zero dependencies. MIT licensed. ([npm](https://www.npmjs.com/package/@neuralflow/ai-act) | [Website](https://neuralflow.mylurch.com))
-- [AI Act Conformity Pack](https://github.com/plusultra-tools/ai-act-conformity-pack) - Generates an EU AI Act Annex IV technical-documentation skeleton from a YAML model card. Covers Articles 11-15 (records, transparency, accuracy, robustness). Python CLI, MIT licensed.
 
 ## Tools & Platforms
 
 ### Open Source Platforms
 
 - [Openlane](https://www.theopenlane.io/) - Comprehensive compliance automation platform for SOC 2, ISO 27001, and custom frameworks (Apache-2.0). Transforms compliance from static annual process to continuous collaborative workflow with risk register, policy management, evidence lifecycle, and control validation. ([GitHub](https://github.com/theopenlane) | [Docs](https://docs.theopenlane.io/))
-- [Objective320](https://objective320.com) - Free, no-signup CMMC / NIST SP 800-171 toolkit: a SPRS score calculator, an SSP generator, a POA&M generator, and a plain-English reference to all 110 controls. Browser-based, CC BY 4.0. ([GitHub](https://github.com/BrianRDS1518/cmmc-nist-800-171-reference))
-- [CISA KEV Deadline Planner](https://kev-deadline-planner.vercel.app/) - Turner Levey. Open-source browser tool for checking CISA Known Exploited Vulnerabilities and BOD 22-01 remediation due dates without login or tracking. ([GitHub](https://github.com/Turner-Levey/kev-deadline-planner))
-- [SOC 2 Reliability Guild](https://s2guild.org/) - A community creating standardized evaluation criteria to help GRC and TPRM practitioners assess how much weight to give a SOC 2 report when making vendor trust decisions. ([GitHub](https://github.com/SOC-2-Quality-Guild/s2guild.org))
-- [Comply](https://github.com/strongdm/comply) - SOC 2 compliance automation framework by StrongDM (Apache-2.0). Provides markdown-based policy templates and document pipeline for auditor-ready policies.
 - [Compliance Masonry](https://github.com/opencontrol/compliance-masonry) - CLI tool to build compliance documentation using OpenControl YAML schema. Supports FedRAMP, NIST, and other frameworks.
-- SEC filing microtools: [SEC Filing Fee Calculator](https://sec-filing-fee-calculator.vercel.app/), [Schedule 13D / 13G Deadline Calculator](https://sec-13d-13g-deadline-calculator.vercel.app/), [Form D Deadline Calculator](https://form-d-deadline-calculator.vercel.app/), and [Section 16 / Form 4 Deadline Calculator](https://section-16-deadline-calculator.vercel.app/) - Browser-only MIT-licensed worksheets for common SEC filing fee estimates and deadline-planning workflows, with memo/CSV exports and a Section 16 calendar export.
-- [Asqav](https://github.com/jagmarques/asqav-sdk) - Open-source SDK for AI agent governance with tamper-evident audit trails, tool scanning, and enforcement policies (MIT). Designed for teams running AI agents in production who need compliance-ready logging and control.
 - [Signet](https://github.com/Prismer-AI/signet) - Cryptographic action receipts for AI agents with Ed25519 signing, hash-chained audit trail, bilateral co-signing, policy engine, and MCP proxy (Apache-2.0 / MIT). Offline-verifiable evidence for every tool call — independent of any provider. ([npm](https://www.npmjs.com/package/@signet-auth/core) | [PyPI](https://pypi.org/project/signet-auth/) | [crates.io](https://crates.io/crates/signet-core))
-- [CSOAI OSCAL Generator](https://github.com/CSOAI-ORG/oscal-generator-mcp) - Open-source MCP server generating Ed25519-signed, machine-readable NIST OSCAL compliance packages — offline-verifiable EU AI Act Article-12 evidence. Validates under compliance-trestle; FedRAMP RFC-0024 readiness check. Flagship of a governed-MCP fleet including 22 legacy-system bridges (COBOL/SAP/SCADA/HL7/ISO-20022) other tools do not reach (Apache-2.0).
-- [Auditree Framework](https://github.com/ComplianceAsCode/auditree-framework) - IBM's framework for automated evidence collection and verification (Apache-2.0). Treats compliance checks as code with version-controlled evidence locker.
 - [Trestle](https://github.com/IBM/compliance-trestle) - IBM's compliance-as-code toolset using NIST's OSCAL format. Manages compliance catalogs and automates documentation generation.
 - [InSpec](https://www.inspec.io/) - Chef's compliance and security testing framework. Write automated compliance tests in Ruby DSL with pre-built profiles for CIS, DISA STIGs.
 - [OpenSCAP](https://www.open-scap.org/) - Security Content Automation Protocol toolset for automated system scanning against SCAP benchmarks (Red Hat sponsored).
@@ -183,41 +173,26 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 - [Prowler](https://github.com/prowler-cloud/prowler) - AWS security and compliance scanner. Checks against AWS CIS Benchmark, GDPR, HIPAA, PCI DSS, SOC 2.
 - [ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-cloud security auditing tool by NCC Group. Detects misconfigurations in AWS, Azure, GCP.
 - [Steampipe](https://steampipe.io/) - Query cloud and SaaS APIs as SQL tables. Includes compliance mod packs for CIS AWS Foundations, HIPAA, PCI.
-- [PacBot](https://github.com/tmobile/pacbot) - T-Mobile's cloud compliance platform. Continuously monitors AWS for violations with auto-remediation capabilities.
 - [OSQuery](https://osquery.io/) - Endpoint monitoring using SQL queries (Linux Foundation). Query running processes, configurations, and compliance-related data across fleet.
 - [Wazuh](https://wazuh.com/) - Open source security platform with SIEM and HIDS capabilities. Provides compliance rule sets for PCI DSS, GDPR, HIPAA with reporting.
 - [CISO Assistant](https://github.com/intuitem/ciso-assistant-community) - Open-source GRC app supporting 40+ frameworks. Manages risks, controls, audits with one-click audit reports.
 - [Comp AI](https://github.com/trycompai/comp) - Open source compliance platform (AGPL-3.0) for SOC 2, ISO 27001, HIPAA, GDPR.
-- [LLM ISO27001](https://github.com/kriss-b/llm-iso27001) - Open-source ISO 27001 (+ 42001 + NIS2) ISMS framework designed to be entirely managed by LLM Agents
+- [LLM ISO27001](https://github.com/kriss-b/llm-iso27001) - Open-source ISO 27001 (+ 42001 + NIS2) ISMS framework designed to be entirely managed by LLM Agents.
 - [Eramba](https://www.eramba.org/) - Enterprise GRC platform with free Community Edition. Modules for compliance, risk management, incidents, vendor assessments.
 - [Trivy](https://github.com/aquasecurity/trivy) - Comprehensive security scanner for containers and IaC. Detects vulnerabilities, misconfigurations, secrets.
 - [kube-bench](https://github.com/aquasecurity/kube-bench) - Checks Kubernetes clusters against CIS Kubernetes Benchmark.
 - [Kyverno](https://kyverno.io/) - Kubernetes-native policy management. Enforce, validate, and mutate configurations.
 - [OPA Gatekeeper](https://open-policy-agent.github.io/gatekeeper/) - Policy controller for Kubernetes using Open Policy Agent.
-- [Havengrc](https://havengrc.com/) - Open-source GRC platform for compliance management.
-- [GGRC Core](https://github.com/google/ggrc-core) - Google's governance, risk, and compliance platform (archived but historically significant).
-- [Govready](https://github.com/GovReady/govready-q) - Open-source GRC platform for automated compliance assessments.
 - [Probo](https://github.com/getprobo/probo) - Open source compliance automation focused on continuous integration workflows.
 - [Venturalitica SDK](https://github.com/Venturalitica/venturalitica-sdk) - Open-source Python SDK (Apache-2.0) for EU AI Act and ISO 42001 compliance evidence generation from ML training pipelines. Produces OSCAL Assessment Results, CycloneDX ML BOM, bias audits, and Annex IV technical documentation as a byproduct of model training.
-- [CRA SBOM Evidence](https://github.com/plusultra-tools/cra-sbom-evidence) - EU Cyber Resilience Act Annex I Part II (1) preflight. Scores a CycloneDX or SPDX SBOM against BSI TR-03183-2 and NTIA Minimum Elements; emits an Article 14 evidence bundle for the technical file. Python, MIT.
-- [DORA ROI Validator](https://github.com/plusultra-tools/dora-roi-validator) - Validates a DORA Register of Information against the 116-field schema from ESA Implementing Regulation 2024/2956. JSON or CSV input, structured error report. Python, MIT.
 - [Regulus](https://github.com/neul-labs/regulus) - Open-source EU & UK compliance plane for Google ADK. Runtime `BasePlugin` suite encoding 10 regulations (EU AI Act, GDPR, DORA, NIS2, EHDS, UK GDPR, FCA SYSC, PRA SS1/23, PRA SS2/21, NHS DSPT) and 6 governance frameworks (NIST AI RMF, ISO/IEC 42001, ISO/IEC 23894, ISO/IEC 23053). Hash-chained audit envelopes with HMAC-SHA256 tamper-evident chains, PII redaction at the tool-call boundary, fail-closed data residency, dual-control kill switch, model-risk tiering, and GRC evidence adapters (ServiceNow IRM, OneTrust AI Governance, MetricStream, signed webhooks). Java 21, MIT, Maven `com.neullabs:regulus-ai-adk-plugins`. ([Maven Central](https://central.sonatype.com/namespace/com.neullabs) | [Docs](https://docs.neullabs.com))
 - [open-isms](https://github.com/NISD2/open-isms) - Self-hostable ISMS for the EU NIS 2 Directive (AGPL-3.0). Covers the 49 requirements from Directive 2022/2555 and Implementing Regulation 2024/2690, with GDPR, ISO 27001, the EU AI Act and the CRA mapped against them. Owner, deadline and sign-off per requirement, plus an append-only audit trail. ([Website](https://www.nisd2.eu) | [Self-hosting](https://github.com/NISD2/open-isms/blob/main/docs/self-hosting.md))
-
-#### MEOK AI Labs — Signed-Attestation Open-Source MCPs
-- [meok-eu-ai-act-compliance](https://github.com/CSOAI-ORG/eu-ai-act-compliance-mcp) - EU AI Act Article 6 risk classifier + Article 26(9) FRIA + Article 50 transparency obligations with HMAC-signed compliance attestations.
-- [meok-dora-compliance](https://github.com/CSOAI-ORG/dora-compliance-mcp) - DORA (Reg 2022/2554) Article 28 register, Article 26 TLPT planner, Article 18 incident classification with signed attestations.
-- [meok-cra-annex-iv-classifier](https://github.com/CSOAI-ORG/meok-cra-annex-iv-classifier-mcp) - EU CRA (Reg 2024/2847) Annex IV essential security requirements classifier.
-- [meok-nis2-de-register](https://github.com/CSOAI-ORG/meok-nis2-de-register-mcp) - Germany NIS2 BSI register Section 30/32 timelines + KRITIS classifications.
-- [meok-watermark-attest](https://github.com/CSOAI-ORG/meok-watermark-attest-mcp) - EU AI Act Article 50 watermarking compliance (C2PA + invisible WM + fingerprint), 2 November 2026 deadline.
-- [meok-attestation-api](https://meok-attestation-api.vercel.app) - HMAC-signed compliance attestation infrastructure used across the MEOK fleet (verifiable URLs, MIT-licensed).
 
 ### Commercial Platforms
 
 - [Drata](https://drata.com/) - Cloud platform for continuous compliance monitoring and automation. Connects to tech stack for evidence collection. Supports SOC 2, ISO 27001, PCI DSS.
 - [Vanta](https://www.vanta.com/) - Compliance automation platform for SOC 2, ISO 27001. Continuous monitoring with AI-powered questionnaire responses.
 - [Secureframe](https://secureframe.com/) - End-to-end compliance platform for SOC 2, ISO 27001, HIPAA. Includes policy templates, evidence collection, training, auditor coordination.
-- [Tugboat Logic](https://www.onegrc.com/) - Security assurance platform now part of OneTrust. Automated evidence collection and audit project management.
 - [Tenable](https://www.tenable.com/) - Cloud-based and On-prem vulnerability and exposure management.
 - [Hyperproof](https://hyperproof.io/) - Compliance operations platform for ongoing risk and compliance management. Workflow automation and continuous control monitoring.
 - [ISMS Copilot](https://www.ismscopilot.com/) - Specialized AI assistant for ISO 27001, SOC 2, NIS 2, GDPR, DORA, NIST, ISO 42001, EU AI Act, and related frameworks. Policy drafting, gap analysis, control mapping, multi-client workspaces, optional EU AI mode. Complements evidence-automation platforms rather than replacing them. Free tools hub: [ismscopilot.com/resources](https://www.ismscopilot.com/resources).
@@ -237,12 +212,10 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 - [OneTrust](https://www.onetrust.com/) - Privacy, security, and data governance platform. Extensive GRC suite including Vendorpedia.
 - [ServiceNow GRC](https://www.servicenow.com/products/governance-risk-compliance.html) - Integrated risk and compliance management on ServiceNow platform.
 - [TrustCloud](https://trustcloud.ai/) - GRC platform with free trust center offering. Compliance tracking with integrations. (Freemium)
-- [Benchmark ESG](https://www.benchmarkesg.com/) - ESG data management and reporting platform.
-- [Diligent ESG](https://www.diligent.com/solutions/esg) - ESG governance and reporting solution.
+- [Diligent](https://www.diligent.com/) - Board management, GRC, and ESG reporting platform.
 - [Locus Technologies](https://www.locustec.com/) - Environmental, health, safety, and sustainability management software.
 - [Novata](https://www.novata.com/) - ESG data management for private markets.
 - [Novisto](https://www.novisto.com/) - ESG reporting automation platform.
-- [Proof](https://www.proof.com/) - ESG performance management platform.
 - [Sametrica](https://www.sametrica.com/) - ESG impact measurement software.
 - [Workiva](https://www.workiva.com/) - Cloud platform for ESG, financial, and compliance reporting.
 - [TrustYourWebsite](https://trustyourwebsite.com) - Deterministic GDPR/cookie scanner for EU and UK SMBs. DOM queries, regex, axe-core, HTTP checks. LLM use restricted to report copy, not the compliance checks themselves.
@@ -259,11 +232,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 - [NIST OSCAL](https://pages.nist.gov/OSCAL/) - Open Security Controls Assessment Language for machine-readable compliance.
 - [PRML (Pre-Registered ML Manifest)](https://spec.falsify.dev/v0.1) - Open format binding an ML evaluation claim to a SHA-256 hash before the run, for tamper-evident EU AI Act Article 12/15 evidence. Four byte-equivalent reference implementations; CC BY 4.0.
 - [OpenControl](http://open-control.org/) - YAML-based compliance documentation framework.
-- [ComplianceForge](https://www.complianceforge.com/) - Commercial policy libraries and toolkits for multiple frameworks.
 - [Regulations.gov](https://www.regulations.gov/) - US federal regulations repository.
-- [Superhighway](https://superhighway.walls.sh/guides/regulatory-research-agent) - Pay-per-call web search API for building regulatory research agents. Researches regulations, compliance requirements, and recent enforcement actions across live web sources, generating structured briefs with compliance checklists and penalty-exposure summaries. Structured JSON output, no signup or subscription.
-- [Awesome Corporate Standards](https://github.com/openapi/awesome-corporate-standards) - Curated reference list of international standards, frameworks, and certification bodies for organizations, spanning ISO 9001/27001/14001, GDPR, PCI DSS, SOX, AS9100, ISO 13485, and sector-specific compliance.
-- [SSKG Hub](https://www.sskg-hub.com/) - Expert-guided platform that turns sustainability disclosure standards (GRI, SASB, TCFD, IFRS S2) into auditable, provenance-linked knowledge graphs — LLM-extracted, expert-certified, machine-queryable representations of the standards themselves ([paper](https://arxiv.org/abs/2603.00669)).
 
 ### Regulatory Data Sources
 
@@ -273,23 +242,8 @@ Programmatic access to regulatory filings, corporate disclosures, and government
 
 - [FilingFirehose](https://filingfirehose.com) - Risk-scored REST API over SEC EDGAR filings (8-K, 10-K, 10-Q, S-3). Free tier with red-flag classification (going-concern, restatement, cyber, officer departure, dilution) and per-ticker AI analysis reports. Companion open-source classifier at [buried-events-parser](https://github.com/jaablon/buried-events-parser) (MIT). Useful for continuous monitoring of vendor / portfolio-company disclosures and SOX/audit workflow triggers.
 
-#### Europe
+## Contributing
 
-European government registries that lack public APIs - pay-per-use scrapers for KYC/AML due diligence, beneficial-owner verification, debtor and insolvency screening, and ESG compliance. Structured JSON output, no monthly subscription. All published on Apify Store under [@minute_contest](https://apify.com/minute_contest).
-
-- [Poland KRS Financial Statements Scraper](https://apify.com/minute_contest/poland-krs-financial-scraper) - Structured balance sheets and income statements parsed from the Polish National Court Register (KRS). Pay-per-use programmatic alternative to manual eKRS PDF lookups.
-- [Poland CRBR Beneficial Owners Scraper](https://apify.com/minute_contest/crbr-beneficial-owners-scraper) - UBO verification from the Central Register of Beneficial Owners. Relevant to EU 6AMLD beneficial-owner due diligence.
-- [Poland KRZ National Debtor Registry Scraper](https://apify.com/minute_contest/krz-debtor-scraper) - Bankruptcy, restructuring, and enforcement-proceedings screening across 9 search modes.
-- [Poland EKW Land Registry Scraper](https://apify.com/minute_contest/ekw-ksiegi-wieczyste-scraper) - Property ownership and mortgage records from księgi wieczyste.
-- [Poland KRS Board Members Scraper](https://apify.com/minute_contest/krs-fullnames-scraper) - Non-anonymized director and board-member names (the official KRS API censors them).
-- [Poland UOKiK Abusive Clauses Scraper](https://apify.com/minute_contest/uokik-clauses-scraper) - 7,500+ prohibited consumer-contract clauses for contract review.
-- [Poland MSiG Court Gazette Scraper](https://apify.com/minute_contest/msig-scraper) - 20+ years of Polish court announcements (Monitor Sądowy i Gospodarczy).
-- [Poland KNF Financial Registry Scraper](https://apify.com/minute_contest/knf-registry-scraper) - 75,000+ supervised financial entities from the Polish Financial Supervision Authority.
-- [Poland BDO Waste Registry Scraper](https://apify.com/minute_contest/bdo-waste-registry-scraper) - 674,000+ waste-management entities for ESG and environmental compliance.
-- [Spain BORME Corporate Acts Parser](https://apify.com/minute_contest/borme-corporate-acts-scraper) - Structured corporate-acts data parsed from Spain's official gazette (BORME) PDFs.
-- [Spain Company Directory Scraper (Registro Mercantil)](https://apify.com/minute_contest/spain-company-directory-scraper) - NIF, officers, and CNAE codes from Registro Mercantil open data.
-- [Austria Ediktsdatei Insolvency Scraper](https://apify.com/minute_contest/austria-ediktsdatei-scraper) - Bankruptcies and reorganizations (the official API requires an IWG license).
-- [Austria WKO Business Directory Scraper](https://apify.com/minute_contest/wko-business-directory-scraper) - 620,000+ Austrian business contacts from the WKO Chamber of Commerce.
-- [France Societe.com Company Scraper](https://apify.com/minute_contest/societe-com-scraper) - Directors, financials, and shareholders for French entities in a single call.
+Read the [contribution guidelines](.github/CONTRIBUTING.md) and the [curation policy](CURATION.md) before opening a pull request. We list what a practitioner would recommend to a peer and close the rest with the rule it cites.
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
