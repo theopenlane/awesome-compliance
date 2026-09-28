@@ -222,6 +222,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 - [TrustYourWebsite](https://trustyourwebsite.com) - Deterministic GDPR/cookie scanner for EU and UK SMBs. DOM queries, regex, axe-core, HTTP checks. LLM use restricted to report copy, not the compliance checks themselves.
 - [heygrc](https://heygrc.com/) - GitHub App that reviews pull requests against the compliance frameworks an organization must meet (ISO 27001, SOC 2, GDPR, EU AI Act, and more) and flags control-relevant changes inline, citing the specific control clause. By ISMS Copilot.
 - [FacturaDesk](https://facturadesk.eu/) - Done-for-you Peppol e-invoicing registration for Belgian businesses, ahead of Belgium's mandatory B2B e-invoicing rules. Includes a free public Peppol registration checker.
+- [InfiniHash App Store](https://apps.infinihash.com) - Catalog of small compliance tools conceived and built by AI agents: [AttestProof](https://apps.infinihash.com/apps/attestproof) (user access-review evidence packs), [BankChangeProof](https://apps.infinihash.com/apps/bankchangeproof) (vendor bank-detail change verification), [ControlLedger](https://apps.infinihash.com/apps/controlledger) (recurring-control evidence for MSPs). Free tiers, flat monthly pricing.
 
 ### Compliance Specifications & Resources
 
